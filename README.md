@@ -26,7 +26,7 @@
 <img align="left" alt="JavaScript" width="35px"src="img/js.png" />
 <img align="left" alt="Dart" width="45px"src="img/dart.png" />
 <img align="left" alt="Flutter" width="30px"src="img/flutter.png" />
-<img align="left" alt="Git" width="35px"src="img/git.png" />
+<img align="left" alt="Git" width="35px"src="img/Git.png" />
 <img align="left" alt="C" width="40px"src="img/c.png" />
 <img align="left" alt="C++" width="40px"src="img/cpp.png" />
 <img align="left" alt="Python" width="35px"src="img/python.png" />
