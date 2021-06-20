@@ -12,7 +12,6 @@
 - 🌐 _I am a Web Developer(Frontend)._
 - 🌱 _I’m currently learning everything.!_ 🤣
 - 👯 _I’m looking to collaborate with other developers._ 😀
-- ⚡ _Hobbies: Playing Volleyball_ 🏐 _and Cricket_ 🏏
 
 <br>
 
