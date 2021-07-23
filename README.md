@@ -41,12 +41,12 @@
 
 ## GitHub Stats :
 
-<img src="https://github-readme-stats.vercel.app/api?username=namanks2201&show_icons=true&theme=merko&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=namanks2201&show_icons=true&theme=radical&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=namanks2201&show_icons=true&theme=merko&hide_border=true&stroke=0000&background=060A0CD0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=namanks2201&show_icons=true&theme=dark&hide_border=true&stroke=ffffff&background=121212" />
 
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=namanks2201&show_icons=true&bg_color=0D1117&color=818181&line=6eb807&point=FFFFFF&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=namanks2201&show_icons=true&bg_color=0D1117&color=FA8F78&line=FF5733&point=FFFFFF&hide_border=true" />
