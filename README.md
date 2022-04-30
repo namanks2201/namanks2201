@@ -35,9 +35,9 @@
 
 ## Connect with me:
 
-<a href="www.linkedin.com/in/namanks" target="blank"><img align="left" src="https://img.shields.io/badge/Naman-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Naman"  /></a>
+<a href="www.linkedin.com/in/namanks" target="blank"><img align="left" src="https://img.shields.io/badge/Naman KS-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Naman"  /></a>
 
-<a href="https://www.instagram.com/_neemo22/" target="blank"><img align="left" src="https://img.shields.io/badge/Naman-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Naman"  /></a>
+<a href="https://www.instagram.com/_neemo22/" target="blank"><img align="left" src="https://img.shields.io/badge/Naman KS-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Naman"  /></a>
 
 <br/><br/>
 ## GitHub Stats :
