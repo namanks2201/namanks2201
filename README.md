@@ -8,36 +8,30 @@
 
 <br>
 
-- 🔭 _Currently working on a Flutter App._
-- 🌐 _I am a Web Developer(Frontend)._
-- 🌱 _I’m currently learning everything.!_ 🤣
+- ✨ _Currently brushing up skills._
+- 🌎 _I am a Full Stack Developer._
+- 😅 _I’m currently learning everything.!_ 😅
 - 👯 _I’m looking to collaborate with other developers._ 😀
 
 <br>
 
 ## My Toolbox includes:
 
-<img align="left" alt="Visual Studio Code" width="35px" src="img/vscode.png" />
+<img align="left" alt="VS Code" width="35px" src="img/vscode.png" />
 <img align="left" alt="Atom" width="35px"src="img/atom.png" />
 <img align="left" alt="HTML5" width="35px"src="img/html.png" />
 <img align="left" alt="CSS3" width="35px"src="img/css.png" />
-<img align="left" alt="Bootstrap" width="45px"src="img/Bootstrap.png" />
 <img align="left" alt="JavaScript" width="35px"src="img/js.png" />
-<img align="left" alt="Dart" width="45px"src="img/dart.png" />
-<img align="left" alt="Flutter" width="30px"src="img/flutter.png" />
-<img align="left" alt="Git" width="35px"src="img/Git.png" />
-<img align="left" alt="C" width="40px"src="img/c.png" />
+<img align="left" alt="ReactJS" width="40px"src="img/react.png" />
+<img align="left" alt="MongoDB" width="35px"src="img/mongoDb.png" />
+<img align="left" alt="NodeJs" width="40px"src="img/nodejs.png" />
 <img align="left" alt="C++" width="40px"src="img/cpp.png" />
 <img align="left" alt="Python" width="35px"src="img/python.png" />
+<img align="left" alt="Git" width="35px"src="img/Git.png" />
+<img align="left" alt="GitHub" width="35px"src="img/github.png" />
 <img align="left" alt="Adobe Xd" width="35px"src="img/Xd.png" />
 
 <br><br>
-### Learning : 
-
-<img align="left" alt="Angular" width="45px" src="img/angular.png" />
-
-<br />
-<br />
 
 ## GitHub Stats :
 
