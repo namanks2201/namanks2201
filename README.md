@@ -17,19 +17,19 @@
 
 ## My Toolbox includes:
 
-<img align="left" alt="VS Code" width="35px" src="img/vscode.png" />
-<img align="left" alt="Atom" width="35px"src="img/atom.png" />
-<img align="left" alt="HTML5" width="35px"src="img/html.png" />
-<img align="left" alt="CSS3" width="35px"src="img/css.png" />
-<img align="left" alt="JavaScript" width="35px"src="img/js.png" />
+<img align="left" alt="VS Code" width="35px" src="./.github/images/vscode.png" />
+<img align="left" alt="Atom" width="35px"src="./.github/images/atom.png" />
+<img align="left" alt="HTML5" width="35px"src="./.github/images/html.png" />
+<img align="left" alt="CSS3" width="35px"src="./.github/images/css.png" />
+<img align="left" alt="JavaScript" width="35px"src="./.github/images/js.png" />
 <img align="left" alt="ReactJS" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="35px"src="img/mongoDb.png" />
-<img align="left" alt="NodeJs" width="40px"src="img/nodejs.png" />
-<img align="left" alt="C++" width="40px"src="img/cpp.png" />
-<img align="left" alt="Python" width="35px"src="img/python.png" />
-<img align="left" alt="Git" width="35px"src="img/Git.png" />
-<img align="left" alt="GitHub" width="35px"src="img/github.png" />
-<img align="left" alt="Adobe Xd" width="35px"src="img/Xd.png" />
+<img align="left" alt="MongoDB" width="35px"src="./.github/images/mongoDb.png" />
+<img align="left" alt="NodeJs" width="40px"src="./.github/images/nodejs.png" />
+<img align="left" alt="C++" width="40px"src="./.github/images/cpp.png" />
+<img align="left" alt="Python" width="35px"src="./.github/images/python.png" />
+<img align="left" alt="Git" width="35px"src="./.github/images/Git.png" />
+<img align="left" alt="GitHub" width="35px"src="./.github/images/github.png" />
+<img align="left" alt="Adobe Xd" width="35px"src="./.github/images/Xd.png" />
 
 <br><br>
 
