@@ -22,7 +22,7 @@
 <img align="left" alt="HTML5" width="35px"src="img/html.png" />
 <img align="left" alt="CSS3" width="35px"src="img/css.png" />
 <img align="left" alt="JavaScript" width="35px"src="img/js.png" />
-<img align="left" alt="ReactJS" width="40px"src="img/react.png" />
+<img align="left" alt="ReactJS" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="35px"src="img/mongoDb.png" />
 <img align="left" alt="NodeJs" width="40px"src="img/nodejs.png" />
 <img align="left" alt="C++" width="40px"src="img/cpp.png" />
@@ -33,6 +33,13 @@
 
 <br><br>
 
+## Connect with me:
+
+<a href="www.linkedin.com/in/namanks" target="blank"><img align="left" src="https://img.shields.io/badge/Naman-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Naman"  /></a>
+
+<a href="https://www.instagram.com/_neemo22/" target="blank"><img align="left" src="https://img.shields.io/badge/Naman-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Naman"  /></a>
+
+<br/><br/>
 ## GitHub Stats :
 
 <img src="https://github-readme-stats.vercel.app/api?username=namanks2201&show_icons=true&theme=radical&hide_border=true" />
