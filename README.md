@@ -17,20 +17,19 @@
 
 ## My Toolbox includes:
 
-<img align="left" alt="VS Code" width="35px" src="./.github/images/vscode.png" />
-<img align="left" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/namanks2201/namanks2201/main/.github/images/Bootstrap.png" />
-<img align="left" alt="Atom" width="35px"src="./.github/images/atom.png" />
-<img align="left" alt="HTML5" width="35px"src="./.github/images/html.png" />
-<img align="left" alt="CSS3" width="35px"src="./.github/images/css.png" />
-<img align="left" alt="JavaScript" width="35px"src="./.github/images/js.png" />
-<img align="left" alt="ReactJS" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="35px"src="./.github/images/mongoDb.png" />
-<img align="left" alt="NodeJs" width="40px"src="./.github/images/nodejs.png" />
-<img align="left" alt="C++" width="40px"src="./.github/images/cpp.png" />
-<img align="left" alt="Python" width="35px"src="./.github/images/python.png" />
-<img align="left" alt="Git" width="35px"src="./.github/images/Git.png" />
-<img align="left" alt="GitHub" width="35px"src="./.github/images/github.png" />
-<img align="left" alt="Adobe Xd" width="35px"src="./.github/images/Xd.png" />
+<img align="left" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Atom" width="35px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/atom/atom-original.svg" />
+<img align="left" alt="HTML5" width="35px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="35px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="35px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
+<img align="left" alt="ReactJS" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />
+<img align="left" alt="MongoDB" width="35px"src="./img/mongoDb.png" />
+<img align="left" alt="NodeJs" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="C++" width="45px"src="./img/cpp.png" />
+<img align="left" alt="Python" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
+<img align="left" alt="Git" width="35px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="35px"src="./img/github.png" />
+<img align="left" alt="Adobe Xd" width="35px"src="./img/Xd.png" />
 
 <br><br>
 
