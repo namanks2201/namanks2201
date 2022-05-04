@@ -5,11 +5,14 @@
 
 ## I'm a Student🧑🏻, Learner📝, UI/UX Designer and Developer💡!!
 
+<br/>
+
 - ✨ _Currently brushing up skills._
 - 🌎 _I am a Full Stack Developer._
 - 😅 _I’m currently learning everything.!_ 😅
 - 👯 _I’m looking to collaborate with other developers._ 😀
 
+<br/>
 
 ## My Toolbox includes:
 
@@ -27,7 +30,7 @@
 <img align="left" alt="GitHub" width="35px"src="./img/github.png" />
 <img align="left" alt="Adobe Xd" width="35px"src="./img/Xd.png" />
 
-<br><br>
+<br/><br/>
 
 ## Connect with me:
 
