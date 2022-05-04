@@ -2,18 +2,14 @@
 
 ### 📍 _Chennai, India._
 
-<br>
 
 ## I'm a Student🧑🏻, Learner📝, UI/UX Designer and Developer💡!!
-
-<br>
 
 - ✨ _Currently brushing up skills._
 - 🌎 _I am a Full Stack Developer._
 - 😅 _I’m currently learning everything.!_ 😅
 - 👯 _I’m looking to collaborate with other developers._ 😀
 
-<br>
 
 ## My Toolbox includes:
 
